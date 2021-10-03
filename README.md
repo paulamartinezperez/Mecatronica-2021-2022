@@ -1,2 +1,2 @@
 # Mecatronica-2021-2022
-## Paula MArtínez Pérez
+## Paula Martínez Pérez
