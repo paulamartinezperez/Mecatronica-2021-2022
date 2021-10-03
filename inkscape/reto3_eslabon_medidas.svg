@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg6134"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="reto3_eslabon_medidas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6136"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:zoom="0.87911561"
+     inkscape:rotation="90"
+     inkscape:cx="456.70899"
+     inkscape:cy="859.3864"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="82.765473,-35.962499"
+       orientation="0,-1"
+       id="guide6864" />
+    <sodipodi:guide
+       position="26.389016,-73.304327"
+       orientation="0,-1"
+       id="guide6866" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6131" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path6894"
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.09426;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       inkscape:transform-center-x="-2.1280623"
+       inkscape:transform-center-y="-21.145587"
+       d="M 483.37891 367.4082 A 79.041792 86.623883 0 0 0 404.33789 454.03125 A 79.041792 86.623883 0 0 0 404.44336 457.125 L 404.44336 1282.084 L 404.73242 1282.084 A 78.705996 83.850791 0 0 0 483.37305 1364.0801 A 78.705996 83.850791 0 0 0 562.01562 1282.084 L 562.31445 1282.084 L 562.31445 458.52148 A 79.041792 86.623883 0 0 0 562.42188 454.03125 A 79.041792 86.623883 0 0 0 483.37891 367.4082 z "
+       transform="scale(0.26458333)" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="path6894-7"
+       cx="128.22231"
+       cy="339.2691"
+       rx="8.9382153"
+       ry="8.6752768"
+       inkscape:transform-center-x="-0.91341175"
+       inkscape:transform-center-y="-8.2686358" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.165;stroke-linejoin:round;paint-order:stroke markers fill;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6894-7-3"
+       cx="128.11299"
+       cy="120.34689"
+       rx="8.9382153"
+       ry="8.6752768"
+       inkscape:transform-center-x="-0.91341175"
+       inkscape:transform-center-y="-8.2686358" />
+  </g>
+</svg>
